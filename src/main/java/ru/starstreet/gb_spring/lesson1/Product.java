@@ -1,4 +1,4 @@
-package ru.starstreet.lesson1;
+package ru.starstreet.gb_spring.lesson1;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
